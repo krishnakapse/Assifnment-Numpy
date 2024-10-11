@@ -1,2 +1,2 @@
-# Assifnment-Numpy
+# Assignment-Numpy
 Assingment 5
